@@ -166,11 +166,9 @@ span {
 
 .education h2 {
     margin-top: 0.8rem;
-    line-height: 1.2rem;
     margin-bottom: 2.5rem;
+    line-height: 1.2; /* ✅ correct */
 }
-
-
 
 .heading {
     text-align: center;
