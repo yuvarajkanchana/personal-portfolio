@@ -174,37 +174,29 @@ span {
     text-align: center;
     font-size: 4.5rem;
 }
-.college-details {
-
+.college-details, .company-details {
     display: flex;
     align-items: center;
     margin-bottom: 2rem;
 }
 
-.college-details img {
+.college-details img, .company-details img {
     max-width: 100px;
     margin-right: 20px;
 
 } 
-.company-details img {
-    width: 90px;
-    height: 90px;
-    object-fit: contain;
-    margin-right: 20px;
-}
-
 .education-content h2{
     text-align: center;
     line-height: 1.2;
 }
-.education-content h4 {
+.education-content h4, .experience-content {
     font-size: 2.2rem;
     color: rgb(9, 2, 37);
 }
 .education-content .sub-heading {
     font-size: 2.6rem;
 }
-.education-content p{
+.education-content p, .expereince-content p{
     font-size: 1.6rem;
 
 }
