@@ -55,7 +55,7 @@ navbar.classList.remove('active');
  /* typed js*/
 
  const typed = new Typed('.multiple-text', {
-    strings: ['Aspiring Data Scientist', 'Aspiring Data Scientist','Aspiring Data Scientist'],
+    strings: ['Applied AI Engineer', 'Applied AI Engineer','Applied AI Engineer'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
